@@ -1,0 +1,20 @@
+{
+  "name": "Incognizant Mac",
+  "version": "0.0.1",
+  "description": "A dirt simple Chrome theme that changes the color of the frame in Incognito mode",
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "frame_incognito": [
+        255,
+        169,
+        20
+      ],
+      "frame_incognito_inactive": [
+        152,
+        152,
+        157
+      ]
+    }
+  }
+}
