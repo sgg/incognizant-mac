@@ -7,7 +7,7 @@ A dirt simple Chrome theme that changes the color of the frame in Incognito mode
 ## Why is it?
 
 [Chrome 73](https://developers.google.com/web/updates/2019/03/nic73) introduced Dark Mode for Mac.
-Regular windows look an awful (read: exactly) like Incognito windows when Dark Mode is enabled and 
+Regular windows look an awful lot (read: exactly) like Incognito windows when Dark Mode is enabled and 
 unfortunately, Chrome 73 neglected to introduce a way to [_disable_ Dark Mode](https://bugs.chromium.org/p/chromium/issues/detail?id=948991).
 
 1. I mostly like Dark Mode on OS X, but I don't like having my browser history further polluted with searches for [Rust Compiler Errors](https://doc.rust-lang.org/error-index.html).
